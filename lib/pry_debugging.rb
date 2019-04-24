@@ -1,3 +1,5 @@
+require 'pry'
+
 def plus_two(num)
-puts num + 2
+  num.each do |num| + 2
 end
