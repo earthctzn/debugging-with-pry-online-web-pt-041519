@@ -1,5 +1,5 @@
 
 
 def plus_two(num)
-  num.each do |num| + 2
+  num + 2
 end
